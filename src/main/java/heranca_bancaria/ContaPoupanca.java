@@ -1,4 +1,6 @@
-package src.main.java;
+package src.main.java.heranca_bancaria;
+
+import src.main.java.abrindo_contas.ContaBancaria;
 
 class ContaPoupanca extends ContaBancaria {
     private final double taxaJuros;

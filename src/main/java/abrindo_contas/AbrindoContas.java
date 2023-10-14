@@ -1,6 +1,5 @@
-package src.main.java;
+package src.main.java.abrindo_contas;
 
-import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class AbrindoContas {
